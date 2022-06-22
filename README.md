@@ -12,7 +12,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img height="400" src="https://i.ibb.co/gdFdNgB/zoe-bye.gif"  />
@@ -20,25 +19,22 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="left">Um pouco sobre mim:</h2>
 
 ###
 
-<br clear="both">
+
 
 <h3 align="left">Sou um desenvolvedor Front End de 25 anos, moro em Salvador-Ba e atualmente estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas.<br>Sou viciado em aprender novas ferramentas mas bem iniciante quando o assunto é design</h3>
 
 ###
 
-<br clear="both">
 
 <h2 align="left">Minha stack:</h2>
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="60" alt="html5 logo"  />
@@ -68,7 +64,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=true&username=kevinaryeldev" height="150" alt="stats graph"  />
@@ -77,9 +72,9 @@
 
 ###
 
-<br clear="both">
 
-![Snake animation](https://github.com/kevinaryeldev/kevinaryeldev/blob/output/github-contribution-grid-snake.svg)
+
+<img href="https://raw.githubusercontent.com/kevinaryeldev/kevinaryeldev/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
