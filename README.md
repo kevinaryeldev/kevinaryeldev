@@ -74,7 +74,7 @@
 
 
 
-<img href="https://raw.githubusercontent.com/kevinaryeldev/kevinaryeldev/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/kevinaryeldev/kevinaryeldev/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
