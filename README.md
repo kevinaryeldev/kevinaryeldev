@@ -22,7 +22,7 @@
 
 
 
-<h3 align="left">Sou um desenvolvedor Front End de 25 anos, moro em Salvador-Ba e atualmente estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas.<br>Sou viciado em aprender novas ferramentas mas bem iniciante quando o assunto é design</h3>
+<h3 align="left">Sou um desenvolvedor Front End de 25 anos, moro em Salvador-Ba e atualmente estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas.<br>Sou viciado em aprender novas ferramentas</h3>
 
 
 
