@@ -24,6 +24,8 @@
 
 <h3 align="left">Sou um desenvolvedor Front End de 25 anos, moro em Salvador-Ba e atualmente estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas.<br>Sou viciado em aprender novas ferramentas</h3>
 
+<h3>Visite meu <a href='https://kevinaryeldev.vercel.app' portifolio </h3
+
 
 
 
